@@ -1,16 +1,16 @@
-# Olá 👋, eu sou o Nicolas Lima!
+# Hi 👋, I'm Nicolas Lima!
 
-<!-- Banner Principal Animado -->
+<!-- Banner Principal Animado (Layout Original) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
-    <img alt="Banner de boas-vindas animado" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome!&textBg=false&animation=twinkling&fontSize=70">
+    <img alt="Animated welcome banner" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome!&textBg=false&animation=twinkling&fontSize=70">
   </picture>
 
   <br><br>
 
   <!-- Botões de Contato Centralizados -->
-  <a href="https://linkedin.com/in/nicolas-lima-b8982425b" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-lima-b8982425b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nicolassilvap1209@gmail.com">
@@ -20,22 +20,23 @@
   <br><br>
 
   <!-- Texto Typing Animado #1 (Azul Claro) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Software;Focado+em+Backend;Entusiasta+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Developer;Backend+Focused;Information+Systems+%40+UNIRIO" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor de software focado em **Backend**, criando soluções robustas e escaláveis. Possuo sólida experiência no desenvolvimento de APIs e microsserviços. No **Frontend**, construo interfaces modernas e responsivas, garantindo uma excelente experiência de usuário.
+Software engineer focused on **Backend Development**, building robust and scalable microservices and APIs. Currently studying **Information Systems at UNIRIO**. On the **Frontend**, I build modern and responsive user interfaces.
 
-- 🔭 Atualmente trabalhando como **Desenvolvedor Full Stack**.
-- 🌱 Constantemente aprendendo novas tecnologias e padrões de arquitetura.
-- 💬 Pergunte-me sobre: **Java, Spring Boot, Node.js, Docker e Arquitetura de Software**.
+- 🎓 Studying **Information Systems at UNIRIO** (Universidade Federal do Estado do Rio de Janeiro).
+- 🔭 Currently working as a **Full Stack Software Developer**.
+- 🌱 Constantly expanding knowledge in software architecture, cloud, and backend ecosystem.
+- 💬 Ask me about: **Java, Spring Boot, Node.js, Express, Docker, MySQL, and MongoDB**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tech Stack & Tools
 
-### Backend & Banco de Dados
+### Backend & Databases
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -46,7 +47,7 @@ Desenvolvedor de software focado em **Backend**, criando soluções robustas e e
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-### Frontend & Build
+### Frontend & Build Tools
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
@@ -60,27 +61,25 @@ Desenvolvedor de software focado em **Backend**, criando soluções robustas e e
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <!-- Card 1: Estatísticas Gerais -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img align="center" src="https://github-stats-extended.vercel.app/api?username=nicolaslima-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Estatísticas Gerais do GitHub" />
+  <a href="https://github-stats-extended.vercel.app">
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=nicolaslima-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="GitHub Stats" />
   </a>
   <br><br>
-  <!-- Card 2: Linguagens Mais Usadas (Ocultando 'roff' e mostrando até 8 linguagens) -->
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolaslima-dev&langs_count=8&hide=roff&theme=chartreuse-dark" alt="Linguagens Mais Usadas" />
+  <!-- Card 2: Linguagens Mais Usadas (Sem Roff) -->
+  <a href="https://github-stats-extended.vercel.app">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolaslima-dev&langs_count=8&hide=roff&theme=chartreuse-dark" alt="Most Used Languages" />
   </a>
 </div>
 
 ---
 
-<!-- Bloco Final Centralizado -->
+<!-- Bloco Final Centralizado (GIF + Typing Verde Chartreuse) -->
 <div align="center">
-  <!-- GIF Header Animado -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5YTQ3YjUxMGVmNzVhNDAyMjEyMGFkZDc3 chemically/giphy.gif" alt="GIF Animado de Fundo" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5YTQ3YjUxMGVmNzVhNDAyMjEyMGFkZDc3 chemically/giphy.gif" alt="Animated GIF" width="400"/>
   <br><br>
-  <!-- Texto Typing Animado em Verde (Chartreuse) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;UNIRIO+Student" alt="Typing SVG Green" />
 </div>
