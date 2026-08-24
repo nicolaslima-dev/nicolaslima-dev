@@ -1,25 +1,22 @@
 # Olá 👋, eu sou o Nicolas Lima!
 
-<!-- Banner Principal Animado (capsule-render) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
-  <img alt="Banner de boas-vindas animado" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
-</picture>
-
-<!-- Botões de Contato Centralizados -->
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
+    <img alt="Banner de boas-vindas animado" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Bem-vindo!&textBg=false&animation=twinkling&fontSize=70">
+  </picture>
+
+  <br><br>
+
   <a href="https://www.linkedin.com/in/nicolas-lima-b8982425b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nicolassilvap1209@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
 
-<br>
+  <br><br>
 
-<div align="center">
-  <!-- Texto Typing Animado #1 (Azul Claro) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Software;Focado+em+Backend;Entusiasta+Tech" alt="Typing SVG" />
 </div>
 
@@ -62,15 +59,11 @@ Desenvolvedor de software focado em **Backend**, criando soluções robustas e e
 
 ## 📊 Estatísticas do GitHub
 
-Abaixo estão as estatísticas do meu perfil geradas dinamicamente:
-
 <div align="center">
-  <!-- Card 1: Estatísticas Gerais (Tema: Chartreuse-dark) -->
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img align="center" src="https://github-stats-extended.vercel.app/api?username=nicolaslima-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Estatísticas Gerais do GitHub" />
   </a>
   <br><br>
-  <!-- Card 2: Linguagens Mais Usadas (Tema: Chartreuse-dark, Top 7) -->
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nicolaslima-dev&langs_count=7&theme=chartreuse-dark" alt="Linguagens Mais Usadas" />
   </a>
@@ -79,9 +72,7 @@ Abaixo estão as estatísticas do meu perfil geradas dinamicamente:
 ---
 
 <div align="center">
-  <!-- GIF Header Animado -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5YTQ3YjUxMGVmNzVhNDAyMjEyMGFkZDc3NjRmYzBjNjA5YjdjOGY3YTg1OWNiZjIxNzl0Yjg4Y2Q0MWQ4Ni/giphy.gif" alt="GIF Animado de Fundo" width="400"/>
-  <br>
-  <!-- Texto Typing Animado em Verde (Chartreuse) -->
+  <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+Tech" alt="Typing SVG" />
 </div>
