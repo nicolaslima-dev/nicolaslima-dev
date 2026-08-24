@@ -6,12 +6,12 @@
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Software;Focado+em+Backend;Entusiasta+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Desenvolvedor+Software;Foco+em+Backend;Entusiasta+Tech" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor de software focado em **Backend**, criando soluções robustas e escaláveis. Possuo sólida experiência no desenvolvimento de APIs e microsserviços. No **Frontend**, construo interfaces modernas e responsivas, garantindo uma excelente experiência de usuário.
+Desenvolvedor de software com foco em **Backend**, criando soluções robustas e escaláveis. Possuo sólida experiência no desenvolvimento de APIs e microsserviços. No **Frontend**, construo interfaces modernas e responsivas, garantindo uma excelente experiência de usuário.
 
 - 🔭 Atualmente trabalhando como **Desenvolvedor Full Stack**.
 - 🌱 Constantemente aprendendo novas tecnologias e padrões de arquitetura.
