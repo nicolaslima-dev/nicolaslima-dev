@@ -63,8 +63,7 @@ Software engineer focused on **Backend Development**, building robust and scalab
 
 ---
 
-## 📊 GitHub Stat
-
+## 📊 GitHub Stats
 
 <div align="center">
   <!-- Card 1: Estatísticas Gerais -->
