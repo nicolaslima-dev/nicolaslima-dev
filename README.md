@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nicolas Lima
+# Hi 👋, I'm Nicolas Lima!
 
 <!-- Banner Principal Animado (Layout Original) -->
 <div align="center">
